@@ -7,7 +7,7 @@ public class Main {
   public static void main(String[] args){
     DispatcherServlet dispatcherServlet = new DispatcherServlet();
 
-    dispatcherServlet.processRequest("/user/info");
+    dispatcherServlet.processRequest("/user/save");
 
   }
 }
